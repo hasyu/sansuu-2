@@ -1,0 +1,15 @@
+#siki {
+  font-size: 30px;
+  margin: 10px;
+}
+.nyuryoku {
+  font-size: 20px;
+  text-align: center;
+  height: 30px;
+  width: 150px;
+  margin: 7px;
+}
+
+.toumei {
+  opacity: 0%;
+}
